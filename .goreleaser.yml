@@ -26,7 +26,6 @@ archives:
         format: zip
 
     files:
-      - example.yml
       - README.md
       - LICENSE
 
